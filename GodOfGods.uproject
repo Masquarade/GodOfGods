@@ -22,5 +22,15 @@
 			"Name": "AdvancedSteamSessions",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"Lumin",
+		"MacNoEditor",
+		"TVOS",
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32"
 	]
 }
